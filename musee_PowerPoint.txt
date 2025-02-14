@@ -1,0 +1,44 @@
+--------------------------------------------------------------PowerPoint-------------------------------------------------------
+#Présentation PowerPoint - Semaine 5
+
+**Diapositive 1 : Titre**
+- Titre : Présentation du Projet Musée - Semaine 5
+- Sous-titre : Développement du site web interactif pour un musée
+
+**Diapositive 2 : Objectif du Projet**
+- Présenter un site web moderne et interactif pour un musée
+- Améliorer l'expérience utilisateur avec un design attrayant
+- Fournir des informations sur l'histoire et les événements du musée
+
+**Diapositive 3 : Structure du Site**
+- Page d'accueil : Présentation du musée et des expositions
+- Page "À propos" : Informations sur l'histoire du musée
+- Page "Galerie" : Images des expositions
+- Page "Événements" : Détails des événements et activités
+- Page "Contact" : Formulaire de contact et informations utiles
+
+**Diapositive 4 : Technologies Utilisées**
+- HTML5, CSS3 pour la structure et le style
+- JavaScript pour les interactions dynamiques
+- Bootstrap pour un design responsive
+
+**Diapositive 5 : Démonstration Visuelle**
+- Captures d'écran des différentes pages du site
+- Présentation du design et de l'interface utilisateur
+
+**Diapositive 6 : Fonctionnalités Clés**
+- Interface utilisateur moderne et fluide
+- Navigation intuitive entre les pages
+- Intégration d’une galerie d’images interactive
+- Affichage des événements à venir
+
+**Diapositive 7 : Améliorations Futures**
+- Ajouter une fonctionnalité de réservation de billets en ligne
+- Intégrer une carte interactive du musée
+- Implémenter un espace utilisateur pour les membres du musée
+
+**Diapositive 8 : Conclusion**
+- Récapitulatif des points abordés
+- Discussion sur les prochaines étapes du projet
+- Questions et échanges
+
